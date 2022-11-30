@@ -16,4 +16,4 @@ node index.js --action="remove" --id=3
 
 # Screenshot
 
-https://monosnap.com/file/FhVQgX1kTOaO93wHVPhW7o8Ie7jv3c
+https://monosnap.com/file/s4hYHpmUTawaaQLbuqBENEWd15lgAE
