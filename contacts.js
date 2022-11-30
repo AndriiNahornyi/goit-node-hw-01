@@ -4,10 +4,6 @@ const ObjectId = require("bson-objectid");
 
 const contactsPath = path.join(__dirname, "./db/contacts.json");
 
-// TODO: задокументувати кожну функцію, використовуючи наступні методи fs:
-// fs.readFile(filename, [options]) - читання файлу
-// fs.writeFile(filename, data, [options]) - запис файлу
-
 const listContacts = async () => {
   try {
     const result = await fs.readFile(contactsPath, "utf8");
